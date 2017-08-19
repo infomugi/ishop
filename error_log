@@ -1,0 +1,132 @@
+[29-Nov-2016 10:52:22 UTC] PHP Warning:  require(/home/u2159764/public_html/protected/config/test.php): failed to open stream: No such file or directory in /home/u2159764/public_html/yii/framework/base/CApplication.php on line 138
+[29-Nov-2016 10:52:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/u2159764/public_html/protected/config/test.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/yii/framework/base/CApplication.php on line 138
+[29-Nov-2016 19:34:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:34:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:34:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:34:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:34:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:35:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:36:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:36:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:37:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:37:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:37:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:37:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:37:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:37:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:38:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:38:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:38:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:39:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[29-Nov-2016 19:40:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'checkout' (T_STRING), expecting ')' in /home/u2159764/public_html/protected/controllers/OrderController.php on line 31
+[02-Dec-2016 04:56:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/ProductController.php on line 281
+[02-Dec-2016 04:56:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/ProductController.php on line 281
+[02-Dec-2016 05:16:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/u2159764/public_html/protected/controllers/ProductController.php on line 277
+[02-Dec-2016 06:31:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ',' or ';' in /home/u2159764/public_html/protected/controllers/SiteController.php on line 86
+[16-Dec-2016 18:20:52 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:52 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:54 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:54 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:57 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:57 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:20:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:21:06 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:21:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:21:06 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:21:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:21:17 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:21:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[16-Dec-2016 18:22:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u2159764/public_html/protected/config/main.php on line 101
+[16-Dec-2016 18:22:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u2159764/public_html/protected/config/main.php on line 101
+[16-Dec-2016 18:22:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u2159764/public_html/protected/config/main.php on line 101
+[16-Dec-2016 18:22:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u2159764/public_html/protected/config/main.php on line 101
+[16-Dec-2016 18:23:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u2159764/public_html/protected/config/main.php on line 101
+[17-Dec-2016 16:39:29 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Dec-2016 00:23:43 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Dec-2016 06:21:43 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Dec-2016 12:14:40 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[19-Dec-2016 10:21:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/CategoryController.php on line 72
+[19-Dec-2016 10:21:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/CategoryController.php on line 72
+[19-Dec-2016 10:21:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/CategoryController.php on line 72
+[19-Dec-2016 10:21:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/CategoryController.php on line 72
+[19-Dec-2016 10:21:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u2159764/public_html/protected/controllers/CategoryController.php on line 72
+[20-Dec-2016 10:30:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/u2159764/public_html/protected/views/bankSender/_form.php on line 33
+[20-Dec-2016 10:31:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/u2159764/public_html/protected/views/bankSender/_form.php on line 33
+[20-Dec-2016 10:36:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/u2159764/public_html/protected/views/bankSender/_form.php on line 33
+[20-Dec-2016 11:11:32 Asia/Jakarta] PHP Fatal error:  Class 'Transaction' not found in /home/u2159764/public_html/protected/controllers/TransactionController.php on line 357
+[26-Dec-2016 03:41:23 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[26-Dec-2016 09:56:19 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[26-Dec-2016 16:44:40 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[26-Dec-2016 23:32:04 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[28-Dec-2016 09:29:39 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:29:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:29:43 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:29:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:29:59 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:29:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:00 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:01 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:03 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:08 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:58 UTC] PHP Warning:  require_once(/home/u2159764/public_html/../yii/framework/yii.php): failed to open stream: No such file or directory in /home/u2159764/public_html/index.php on line 14
+[28-Dec-2016 09:30:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2159764/public_html/../yii/framework/yii.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/u2159764/public_html/index.php on line 14
+[01-Jan-2017 19:11:31 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[01-Jan-2017 19:11:39 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[03-Jan-2017 20:42:52 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[05-Jan-2017 15:51:26 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[05-Jan-2017 15:51:27 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[05-Jan-2017 21:26:28 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[05-Jan-2017 21:26:29 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[08-Jan-2017 03:19:24 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[08-Jan-2017 03:19:25 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[26-Jan-2017 19:45:30 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[27-Jan-2017 03:00:58 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[27-Jan-2017 08:31:33 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[27-Jan-2017 14:38:21 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[27-Jan-2017 20:42:03 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[29-Jan-2017 13:40:21 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/u2159764/public_html/protected/controllers/UserController.php on line 209
+[29-Jan-2017 13:40:42 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/u2159764/public_html/protected/controllers/UserController.php on line 209
+[14-Feb-2017 10:03:26 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[14-Feb-2017 17:10:51 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[14-Feb-2017 23:25:23 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[15-Feb-2017 05:49:49 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[23-Feb-2017 17:39:55 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[02-Mar-2017 08:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[03-Mar-2017 19:19:39 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[04-Mar-2017 03:49:32 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[04-Mar-2017 06:38:09 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[04-Mar-2017 13:12:02 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[04-Mar-2017 19:07:05 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[09-Mar-2017 19:12:49 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[10-Mar-2017 11:35:31 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[10-Mar-2017 11:41:58 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[17-Mar-2017 10:44:52 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[17-Mar-2017 17:16:20 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[17-Mar-2017 22:19:45 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Mar-2017 06:01:56 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Mar-2017 11:04:56 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[25-Mar-2017 04:51:05 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[27-Mar-2017 15:47:23 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[27-Mar-2017 19:57:37 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[08-Apr-2017 19:09:31 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[09-Apr-2017 01:29:50 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[09-Apr-2017 07:45:53 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[09-Apr-2017 13:32:27 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[09-Apr-2017 20:12:44 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[12-Apr-2017 02:19:59 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[12-Apr-2017 04:38:14 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Apr-2017 07:38:18 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Apr-2017 15:26:03 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[18-Apr-2017 21:45:51 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[19-Apr-2017 03:29:20 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[16-May-2017 05:20:23 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
+[16-May-2017 05:30:08 Asia/Jakarta] PHP Notice:  Undefined variable: baseUrl in /home/u2159764/public_html/themes/store/views/layouts/back/tpl_asset_footer.php on line 5
